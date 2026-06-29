@@ -1,4 +1,4 @@
-# 
+# VIP WizTree scripts for Mac OS | Native WizTree scripts for PC Windows. Featuring notification system and file encryption — optimized for maximum performance on every platform.
 
 
 
